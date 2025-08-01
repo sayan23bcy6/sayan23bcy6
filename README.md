@@ -2,9 +2,9 @@
 
 <a href="https://www.linkedin.com/in/sayan-sinha-a34080322/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:dk143443@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://leetcode.com/u/SayanSinha2005/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://leetcode.com/u/rorozorojuro/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
-[cite_start]I'm a Computer Science student specializing in Cyber Security, currently attending the Indian Institute of Information Technology, Kottayam[cite: 4, 5]. I have a passion for building secure, full-stack applications and solving complex problems. I thrive on learning new technologies and applying them to create practical and innovative solutions.
+I'm a Computer Science student specializing in Cyber Security, currently attending the Indian Institute of Information Technology, Kottayam. I have a passion for building secure, full-stack applications and solving complex problems. I thrive on learning new technologies and applying them to create practical and innovative solutions.
 
 ---
 
@@ -12,9 +12,9 @@
 
 * 🔭 **I’m currently working on:** Honing my full-stack development skills by building real-time applications with React and TypeScript, and exploring practical cybersecurity challenges.
 * 👯 **I’m looking to collaborate on:** Open-source projects related to web development (especially using the MERN stack or FastAPI), cybersecurity tools, or innovative AI/ML applications.
-* [cite_start]🌱 **I’m currently learning:** Advanced concepts in cybersecurity, building scalable backend systems, and applying Natural Language Processing (NLP) to solve real-world problems[cite: 12, 33].
-* [cite_start]💬 **Ask me about:** React, TypeScript, Python, Node.js, FastAPI, Supabase, and the OWASP Top 10[cite: 8, 9, 10, 11].
-* [cite_start]⚡ **Fun fact:** I was part of a team that ranked in the **top 4% globally** in the picoCTF 2025 competition[cite: 37]!
+* 🌱 **I’m currently learning:** Advanced concepts in cybersecurity, building scalable backend systems, and applying Natural Language Processing (NLP) to solve real-world problems.
+* 💬 **Ask me about:** React, TypeScript, Python, Node.js, FastAPI, Supabase, and the OWASP Top 10.
+* ⚡ **Fun fact:** I was part of a team that ranked in the **top 4% globally** in the picoCTF 2025 competition!
 
 ---
 
@@ -104,18 +104,18 @@
   <tr>
     <td width="50%">
       <h3 align="center">Taskloop - Real-Time Task Management App</h3>
-      [cite_start]<p>A high-performance, real-time task management application with full-stack capabilities[cite: 24]. [cite_start]Features include task CRUD, bulk actions, threaded comments, notifications, role-based access control, and dark/light modes[cite: 25, 26, 27].</p>
-      [cite_start]<p><strong>Tech Stack:</strong> TypeScript, React, Supabase, Tailwind CSS, Shadcn UI [cite: 23]</p>
+      <p>A high-performance, real-time task management application with full-stack capabilities. Features include task CRUD, bulk actions, threaded comments, notifications, role-based access control, and dark/light modes.</p>
+      <p><strong>Tech Stack:</strong> TypeScript, React, Supabase, Tailwind CSS, Shadcn UI</p>
       <p align="center">
-        <a href="https://github.com/SayanSinha2005/Taskloop-Real-Time-Task-Management-Application"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
+        <a href="https://github.com/sayan23bcy6/Task-Loop-Final"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">Hack TheRecipe - Smart Grocery App</h3>
-      [cite_start]<p>A full-stack app that converts recipe prompts into grocery recommendations using a large language model[cite: 32]. [cite_start]It applies NLP to match ingredients with a grocery database and uses caching to improve performance[cite: 33, 34].</p>
-      [cite_start]<p><strong>Tech Stack:</strong> React, TypeScript, FastAPI, Python, SQLite, Tailwind CSS [cite: 31]</p>
+      <p>A full-stack app that converts recipe prompts into grocery recommendations using a large language model. It applies NLP to match ingredients with a grocery database and uses caching to improve performance.</p>
+      <p><strong>Tech Stack:</strong> React, TypeScript, FastAPI, Python, SQLite, Tailwind CSS</p>
       <p align="center">
-        <a href="https://github.com/SayanSinha2005/HackTheRecipe-Smart-Grocery-Matching-App"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
+        <a href="https://github.com/sayan23bcy6/HackTheRecipe"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
         <a href="https://hack-the-recipe.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-4285F4?style=for-the-badge&logo=vercel" alt="Live Demo"></a>
       </p>
     </td>
@@ -123,10 +123,10 @@
   <tr>
     <td width="50%">
       <h3 align="center">Scamazon - E-commerce Platform</h3>
-      [cite_start]<p>A full-stack e-commerce platform featuring user authentication, a product catalog, and order processing via RESTful APIs[cite: 19, 20]. [cite_start]Designed to be responsive with a focus on UX and data integrity[cite: 21].</p>
-      [cite_start]<p><strong>Tech Stack:</strong> ReactJS, Flask, MySQL, HTML, CSS, JavaScript [cite: 18]</p>
+      <p>A full-stack e-commerce platform featuring user authentication, a product catalog, and order processing via RESTful APIs. Designed to be responsive with a focus on UX and data integrity.</p>
+      <p><strong>Tech Stack:</strong> ReactJS, Flask, MySQL, HTML, CSS, JavaScript</p>
       <p align="center">
-        <a href="https://github.com/SayanSinha2005/Scamazon-E--commerce-Platform"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
+        <a href="https://github.com/sayan23bcy6/Scamazon"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
       </p>
     </td>
     <td width="50%">
@@ -139,6 +139,6 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayanSinha2005&show_icons=true&theme=tokyonight" alt="Sayan Sinha's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanSinha2005&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayan23bcy6&show_icons=true&theme=tokyonight" alt="Sayan Sinha's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan23bcy6&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
