@@ -14,7 +14,7 @@ I'm a Computer Science student specializing in Cyber Security, currently attendi
 * 👯 **I’m looking to collaborate on:** Open-source projects related to web development (especially using the MERN stack or FastAPI), cybersecurity tools, or innovative AI/ML applications.
 * 🌱 **I’m currently learning:** Advanced concepts in cybersecurity, building scalable backend systems, and applying Natural Language Processing (NLP) to solve real-world problems.
 * 💬 **Ask me about:** React, TypeScript, Python, Node.js, FastAPI, Supabase, and the OWASP Top 10.
-* ⚡ **Fun fact:** I was part of a team that ranked in the **top 4% globally** in the picoCTF 2025 competition!
+* [cite_start]⚡ **Fun fact:** I was part of a team that ranked in the **top 4% globally** in the picoCTF 2025 competition! [cite: 37]
 
 ---
 
@@ -104,16 +104,16 @@ I'm a Computer Science student specializing in Cyber Security, currently attendi
   <tr>
     <td width="50%">
       <h3 align="center">Taskloop - Real-Time Task Management App</h3>
-      <p>A high-performance, real-time task management application with full-stack capabilities. Features include task CRUD, bulk actions, threaded comments, notifications, role-based access control, and dark/light modes.</p>
-      <p><strong>Tech Stack:</strong> TypeScript, React, Supabase, Tailwind CSS, Shadcn UI</p>
+      [cite_start]<p>A high-performance, real-time task management application with full-stack capabilities. [cite: 24] [cite_start]Features include task CRUD, bulk actions, threaded comments, notifications, role-based access control, and dark/light modes. [cite: 26, 27]</p>
+      [cite_start]<p><strong>Tech Stack:</strong> TypeScript, React, Supabase, Tailwind CSS [cite: 23]</p>
       <p align="center">
         <a href="https://github.com/sayan23bcy6/Task-Loop-Final"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">Hack TheRecipe - Smart Grocery App</h3>
-      <p>A full-stack app that converts recipe prompts into grocery recommendations using a large language model. It applies NLP to match ingredients with a grocery database and uses caching to improve performance.</p>
-      <p><strong>Tech Stack:</strong> React, TypeScript, FastAPI, Python, SQLite, Tailwind CSS</p>
+      [cite_start]<p>A full-stack app that converts recipe prompts into grocery recommendations using a large language model. [cite: 32] [cite_start]It applies NLP to match ingredients with a grocery database and uses caching to improve performance. [cite: 33, 34]</p>
+      [cite_start]<p><strong>Tech Stack:</strong> React, TypeScript, FastAPI, Python, SQLite, Tailwind CSS [cite: 31]</p>
       <p align="center">
         <a href="https://github.com/sayan23bcy6/HackTheRecipe"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
         <a href="https://hack-the-recipe.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-4285F4?style=for-the-badge&logo=vercel" alt="Live Demo"></a>
@@ -123,8 +123,8 @@ I'm a Computer Science student specializing in Cyber Security, currently attendi
   <tr>
     <td width="50%">
       <h3 align="center">Scamazon - E-commerce Platform</h3>
-      <p>A full-stack e-commerce platform featuring user authentication, a product catalog, and order processing via RESTful APIs. Designed to be responsive with a focus on UX and data integrity.</p>
-      <p><strong>Tech Stack:</strong> ReactJS, Flask, MySQL, HTML, CSS, JavaScript</p>
+      [cite_start]<p>A full-stack e-commerce platform featuring user authentication, a product catalog, and order processing via RESTful APIs. [cite: 19, 20] [cite_start]Designed to be responsive with a focus on UX and data integrity. [cite: 21]</p>
+      [cite_start]<p><strong>Tech Stack:</strong> ReactJS, Flask, MySQL, HTML, CSS, JavaScript [cite: 18]</p>
       <p align="center">
         <a href="https://github.com/sayan23bcy6/Scamazon"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
       </p>
