@@ -34,35 +34,39 @@ I'm a Computer Science student specializing in Cyber Security, currently attendi
 
 ### 📂 My Featured Projects
 
-### Taskloop - Real-Time Task Management App
+<details>
+<summary><strong>Taskloop - Real-Time Task Management App</strong></summary>
+<br>
 A high-performance, real-time task management application with full-stack capabilities. Features include task CRUD, bulk actions, threaded comments, notifications, role-based access control, and dark/light modes.
-
-**Tech Stack:** TypeScript, React, Supabase, Tailwind CSS
-
+<br><br>
+<strong>Tech Stack:</strong> TypeScript, React, Supabase, Tailwind CSS
 <p align="center">
   <a href="https://github.com/sayan23bcy6/Task-Loop-Final"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
 </p>
+</details>
 
-### Hack TheRecipe - Smart Grocery App
+<details>
+<summary><strong>Hack TheRecipe - Smart Grocery App</strong></summary>
+<br>
 A full-stack app that converts recipe prompts into grocery recommendations using a large language model. It applies NLP to match ingredients with a grocery database and uses caching to improve performance.
-
-**Tech Stack:** React, TypeScript, FastAPI, Python, SQLite, Tailwind CSS
-
+<br><br>
+<strong>Tech Stack:</strong> React, TypeScript, FastAPI, Python, SQLite, Tailwind CSS
 <p align="center">
   <a href="https://github.com/sayan23bcy6/HackTheRecipe"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
   <a href="https://hack-the-recipe.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-4285F4?style=for-the-badge&logo=vercel" alt="Live Demo"></a>
 </p>
+</details>
 
-### Scamazon - E-commerce Platform
+<details>
+<summary><strong>Scamazon - E-commerce Platform</strong></summary>
+<br>
 A full-stack e-commerce platform featuring user authentication, a product catalog, and order processing via RESTful APIs. Designed to be responsive with a focus on UX and data integrity.
-
-**Tech Stack:** ReactJS, Flask, MySQL, HTML, CSS, JavaScript
-
+<br><br>
+<strong>Tech Stack:</strong> ReactJS, Flask, MySQL, HTML, CSS, JavaScript
 <p align="center">
   <a href="https://github.com/sayan23bcy6/Scamazon"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
 </p>
-
----
+</details>
 
 ### 📊 My GitHub Stats
 
