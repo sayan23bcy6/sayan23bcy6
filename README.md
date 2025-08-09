@@ -68,6 +68,19 @@ A full-stack e-commerce platform featuring user authentication, a product catalo
 </p>
 </details>
 
+<details>
+<summary><strong>V.E.N.T.R.I.S. – Vision-Enabled Gesture Recognition & Interaction System</strong></summary>
+<br>
+Built a real-time gesture recognition system using a webcam, capable of identifying pre-configured <strong>left-hand gestures</strong>.<br><br>
+Applied MediaPipe to detect and normalize 21 3D hand landmarks, ensuring scale- and position-invariant predictions.<br><br>
+Integrated a pre-trained Scikit-learn model to classify gestures and trigger <strong>customizable application launches</strong> via Windows shortcuts.<br><br>
+Implemented a cooldown mechanism to prevent repeated actions and enhance user control.<br><br>
+<strong>Tech Stack:</strong> Python, OpenCV, NumPy, MediaPipe, Scikit-learn, Joblib<br>
+<p align="center">
+  <a href="https://github.com/sayan23bcy6/V.E.N.T.R.I.S"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
+</p>
+</details>
+
 ### 📊 My GitHub Stats
 
 <p align="center">
