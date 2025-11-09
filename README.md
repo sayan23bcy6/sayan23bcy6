@@ -81,6 +81,34 @@ Implemented a cooldown mechanism to prevent repeated actions and enhance user co
 </p>
 </details>
 
+<details>
+<summary><strong>⚽ FIFA21 Market Value Predictor</strong></summary>
+<br>
+A machine learning project that predicts a FIFA21 player’s **market value category** based on their attributes.  
+Instead of estimating exact prices (which are highly volatile), this model classifies players into five distinct value tiers:  
+<strong>Very Low, Low, Medium, High,</strong> and <strong>Very High</strong>.  
+<br><br>
+The dataset included over <strong>17,000 players</strong> and <strong>107 attributes</strong>. After comprehensive cleaning, encoding, and visualization, two ensemble models were trained and compared — <strong>Random Forest</strong> and <strong>XGBoost</strong>.  
+<br><br>
+The <strong>XGBoost model</strong> achieved a remarkable <strong>94.41% testing accuracy</strong> with minimal overfitting, outperforming Random Forest.
+<br><br>
+
+<strong>Key Highlights:</strong>
+- Data Cleaning: Standardized height, weight, wage, and value formats  
+- Feature Engineering: Converted text data (Club, Nationality, Position) into numerical encodings  
+- Classification: Divided players into 5 balanced value categories using quintiles  
+- Model Comparison: XGBoost vs Random Forest  
+- Visualization: Correlation plots, radar plots, confusion matrices  
+
+<br>
+<strong>Tech Stack:</strong> Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
+<br><br>
+
+<p align="center">
+  <a href="https://github.com/sayan23bcy6/FIFA-Market-Value-Predictor"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
+</p>
+</details>
+
 ### 📊 My GitHub Stats
 
 <p align="center">
