@@ -82,7 +82,7 @@ Implemented a cooldown mechanism to prevent repeated actions and enhance user co
 </details>
 
 <details>
-<summary><strong>⚽ FIFA21 Market Value Predictor</strong></summary>
+<summary><strong></strong>FIFA21 Market Value Predictor</strong></summary>
 <br>
 A machine learning project that predicts a FIFA21 player’s **market value category** based on their attributes.  
 Instead of estimating exact prices (which are highly volatile), this model classifies players into five distinct value tiers:  
