@@ -212,6 +212,32 @@ A multi-agent research system in which a manager agent plans a research question
 
 ---
 
+## HackTheRecipe
+
+An AI-powered application that converts recipes into structured grocery lists using Large Language Models, semantic normalization, and persistent caching to improve efficiency while reducing API costs.
+
+**Tech Stack**
+
+`Python` `FastAPI` `Gemini API` `SQLite` `React`
+
+**GitHub:** https://github.com/sayan23bcy6/HackTheRecipe
+
+**Live Demo:** https://hack-the-recipe.vercel.app/
+
+---
+
+## Taskloop
+
+A full-stack task management web application for organizing, tracking, and collaborating on tasks in real time. It supports task CRUD with filtering, search, and bulk actions, live updates across collaborators through Supabase real-time subscriptions, comments and file attachments, and light and dark themes. The frontend uses React and Vite, with Row-Level Security policies enforced in Supabase.
+
+**Tech Stack**
+
+`TypeScript` `React` `Vite` `Supabase` `Tailwind CSS` `Shadcn UI` `Zod` `React Hook Form`
+
+**GitHub:** https://github.com/sayan23bcy6/Task-Loop-Final
+
+---
+
 ## PDF RAG
 
 A retrieval-augmented generation system for querying PDF documents, built to answer questions grounded in the content of the uploaded files.
