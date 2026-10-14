@@ -1,4 +1,4 @@
-# Hi there, I'm Sayan Sinha 👋
+# Hi there, I'm Sayan Sinha
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sayan-sinha-a34080322/" target="_blank">
@@ -20,7 +20,7 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 I'm a Computer Science undergraduate at **IIIT Kottayam** specializing in Cyber Security with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Data Analytics**.
 
@@ -28,25 +28,25 @@ I enjoy transforming raw data into intelligent systems through predictive modeli
 
 I'm actively seeking opportunities as a
 
-- 📊 Data Scientist
-- 🤖 Machine Learning Engineer
-- 🧠 AI Engineer
-- 📈 Data Analyst
+-  Data Scientist
+-  Machine Learning Engineer
+-  AI Engineer
+-  Data Analyst
 
 where I can solve real-world problems using data-driven solutions.
 
 ---
 
-# 🚀 What I'm Currently Working On
+#  What I'm Currently Working On
 
-- 🔭 UAV Behavioral Intrusion Detection Dataset for Machine Learning
-- 🏎️ Formula 1 Predictive Telemetry Analytics Platform
-- 🤖 AI-powered Automation Systems using LLMs
-- 📊 Real-time Data Pipelines and Analytics Dashboards
+-  UAV Behavioral Intrusion Detection Dataset for Machine Learning
+-  Formula 1 Predictive Telemetry Analytics Platform
+-  AI-powered Automation Systems using LLMs
+-  Real-time Data Pipelines and Analytics Dashboards
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - Deep Learning
 - Time Series Forecasting
@@ -58,7 +58,7 @@ where I can solve real-world problems using data-driven solutions.
 
 ---
 
-# 💬 Ask Me About
+#  Ask Me About
 
 - Python
 - Machine Learning
@@ -76,9 +76,9 @@ where I can solve real-world problems using data-driven solutions.
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
-## 💻 Languages
+##  Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -92,7 +92,7 @@ where I can solve real-world problems using data-driven solutions.
 
 ---
 
-## 🤖 Machine Learning & AI
+##  Machine Learning & AI
 
 <p>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -108,7 +108,7 @@ where I can solve real-world problems using data-driven solutions.
 
 ---
 
-## 🧠 Generative AI
+##  Generative AI
 
 <p>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
@@ -122,7 +122,7 @@ where I can solve real-world problems using data-driven solutions.
 
 ---
 
-## 📊 Data Analytics
+##  Data Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -132,7 +132,7 @@ where I can solve real-world problems using data-driven solutions.
 
 ---
 
-## ⚙ Data Engineering & Deployment
+##  Data Engineering & Deployment
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -144,7 +144,7 @@ where I can solve real-world problems using data-driven solutions.
 
 ---
 
-## 🧰 Tools
+##  Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -156,9 +156,9 @@ where I can solve real-world problems using data-driven solutions.
 
 ---
 
-# 📂 Featured Projects
+#  Featured Projects
 
-## ⚽ Football Player Market Value Prediction
+##  Football Player Market Value Prediction
 
 A machine learning project that predicts player market value categories using over **17,000 players** and **100+ attributes**. Applied extensive EDA, feature engineering, and trained ensemble learning models with **XGBoost achieving 94.41% accuracy**.
 
@@ -166,11 +166,11 @@ A machine learning project that predicts player market value categories using ov
 
 `Python` `Pandas` `Scikit-learn` `XGBoost` `Matplotlib` `Seaborn`
 
-🔗 **GitHub:** https://github.com/sayan23bcy6/FIFA-Market-Value-Predictor
+ **GitHub:** https://github.com/sayan23bcy6/FIFA-Market-Value-Predictor
 
 ---
 
-## 🏎 FIA Formula 1 Predictive Telemetry Analytics Platform
+##  FIA Formula 1 Predictive Telemetry Analytics Platform
 
 Designed a real-time predictive analytics platform that ingests Formula 1 telemetry at **3.7–5 Hz**, engineers predictive features for tire degradation, energy deployment, and race strategy, and visualizes insights through interactive Power BI dashboards.
 
@@ -180,7 +180,7 @@ Designed a real-time predictive analytics platform that ingests Formula 1 teleme
 
 ---
 
-## 🚁 UAV Behavioral Intrusion Detection Dataset
+##  UAV Behavioral Intrusion Detection Dataset
 
 Developed an automated behavioral dataset generation framework using PX4 SITL and Gazebo simulations to collect Linux system call traces under benign and cyberattack scenarios. Built standardized data pipelines for downstream machine learning models focused on intrusion detection.
 
@@ -190,7 +190,7 @@ Developed an automated behavioral dataset generation framework using PX4 SITL an
 
 ---
 
-## 🥬 HackTheRecipe
+##  HackTheRecipe
 
 Built an AI-powered application that converts recipes into structured grocery lists using Large Language Models, semantic normalization, and persistent caching to improve efficiency while reducing API costs.
 
@@ -198,13 +198,13 @@ Built an AI-powered application that converts recipes into structured grocery li
 
 `Python` `FastAPI` `Gemini API` `SQLite` `React`
 
-🔗 **GitHub:** https://github.com/sayan23bcy6/HackTheRecipe
+ **GitHub:** https://github.com/sayan23bcy6/HackTheRecipe
 
-🌐 **Live Demo:** https://hack-the-recipe.vercel.app/
+ **Live Demo:** https://hack-the-recipe.vercel.app/
 
 ---
 
-## ✋ Gesture-Based Pattern Recognition
+##  Gesture-Based Pattern Recognition
 
 Developed a real-time gesture recognition system using MediaPipe and Random Forest, extracting 21-point 3D hand landmarks to classify 28 ASL gestures with 99% accuracy.
 
@@ -212,11 +212,11 @@ Developed a real-time gesture recognition system using MediaPipe and Random Fore
 
 `Python` `MediaPipe` `Scikit-learn` `OpenCV`
 
-🔗 **GitHub:** https://github.com/sayan23bcy6/V.E.N.T.R.I.S
+ **GitHub:** https://github.com/sayan23bcy6/V.E.N.T.R.I.S
 
 ---
 
-# 📈 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
 
@@ -234,11 +234,11 @@ Developed a real-time gesture recognition system using MediaPipe and Random Fore
 
 ---
 
-# 📫 Let's Connect
+#  Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sayan-sinha-a34080322/
-- 🌐 Portfolio: https://portfolio-xi-dun-32.vercel.app/
-- 📧 Email: sayansinha2504@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/sayan-sinha-a34080322/
+-  Portfolio: https://portfolio-xi-dun-32.vercel.app/
+-  Email: sayansinha2504@gmail.com
 
 ---
 
